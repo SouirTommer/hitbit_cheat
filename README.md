@@ -33,8 +33,8 @@ Edit `fitbit_config.json` in the project directory and fill in your values. Exam
 
 ```json
 {
-  "client_id": "YOUR_CLIENT_ID",
-  "client_secret": "YOUR_CLIENT_SECRET",
+  "client_id": "Your_OAuth 2.0 Client ID",
+  "client_secret": "Your_Client_Secret",
   "redirect_uri": "http://127.0.0.1:8080/",
   "scope": "activity",
   "default_port": 8080,
